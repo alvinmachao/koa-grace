@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9400f637-0eda-4fa9-8181-38be480297dd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/awesome/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/awesome/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/awesome/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/awesome/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/image/bg_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/image/bg_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/image/bg_3_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/image/bg_4_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/image/bg_5_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/image/bg_6_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/image/bg_7_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/image/bg_8_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/image/dashboard/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/image/demo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/image/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/demo/static/image/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/demo/static/image/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/static/image/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/static/image/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/koa-grace.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/controller/about.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/controller/api/post.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/controller/dashboard/post.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/controller/dashboard/site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/controller/dashboard/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/controller/dashboard/userAuthor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/controller/defaultCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/controller/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/controller/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/controller/post.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/controller/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/model/mongo/Category.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/model/mongo/Link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/model/mongo/Post.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/model/mongo/User.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/common/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/common/post_content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/common/post_list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/common/post_theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/common/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/common/simplemde.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/dashboard/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/dashboard/post.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/dashboard/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/awesome/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/awesome/.ruby-version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/awesome/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/epiceditor/js/epiceditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/epiceditor/js/epiceditor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/epiceditor/themes/base/epiceditor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/epiceditor/themes/editor/epic-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/epiceditor/themes/editor/epic-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/epiceditor/themes/preview/bartik.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/epiceditor/themes/preview/github.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/epiceditor/themes/preview/preview-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/highlight/highlight.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/highlight/styles/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/css/lib/highlight/styles/railscasts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/image/rev-manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/js/common/jquery-2.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/js/common/layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/js/common/post_content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/js/common/simplemde.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/js/dashboard/layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/js/dashboard/post_cate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/js/dashboard/post_edit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/js/dashboard/post_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/js/dashboard/site_link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/static/js/dashboard/user_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/common/bread.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/common/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/common/post_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/common/post_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/dashboard/bread.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/dashboard/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/dashboard/page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/dashboard/post_cate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/dashboard/post_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/dashboard/post_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/dashboard/site_home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/dashboard/site_link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/dashboard/user_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/dashboard/user_mine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/home_about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/home_join.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/post_cate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/blog/views/post_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/demo/controller/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/demo/controller/defaultCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/demo/controller/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/demo/static/css/home.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/demo/static/js/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/demo/static/js/jquery-2.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/demo/views/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/controller/api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/controller/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/controller/defaultCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/controller/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/controller/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/controller/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/controller/message.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/controller/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/static/css/home.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/static/js/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/static/js/jquery-2.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/static/js/jquery-3.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/static/js/packagingAjax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/static/js/socket.io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/views/error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/views/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myDemo/views/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/test/controller/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/test/controller/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/main.development.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/main.production.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/main.testing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/server.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/message.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/body/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/body/example/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/body/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/compress/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/compress/example/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/compress/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mock/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mock/example/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mock/example/test/mock/test1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mock/example/test/mock/test2/test3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mock/example/test/mock/test3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mock/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mongo/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mongo/example/controller/deal/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mongo/example/controller/deal/refund.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mongo/example/controller/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mongo/example/model/mongo/post.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mongo/example/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/mongo/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/proxy/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/proxy/example/controller/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/proxy/example/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/proxy/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/proxy/lib/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/router/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/router/example/controller/defaultCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/router/example/controller/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/router/example/controller/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/router/example/controller/mult.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/router/example/controller/notcontroller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/router/example/controller/path/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/router/example/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/router/lib/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/router/lib/router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/secure/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/secure/example/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/secure/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/session/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/session/example/controller/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/session/example/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/session/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/static/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/static/example/app/blog/static/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/static/example/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/static/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/vhost/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/vhost/example/controller/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/vhost/example/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/vhost/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/views/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/views/example/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/views/example/views/common.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/views/example/views/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/views/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/views/lib/render.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/views/lib/views.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/xload/example/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/xload/example/data/name.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/xload/example/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/xload/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/xload/lib/formidable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/middleware/xload/lib/sendfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodemon.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/body.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/router.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/vhost.test.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="demo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/myDemo/controller/demo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/myDemo/views/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/myDemo/controller/message.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data_aj_post</find>
+      <find>send_sms_code</find>
+      <find>ETIMEDOUT</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/demo/controller/data.js" />
+        <option value="$PROJECT_DIR$/middleware/body/example/app.js" />
+        <option value="$PROJECT_DIR$/config/main.development.js" />
+        <option value="$PROJECT_DIR$/app/myDemo/controller/data.js" />
+        <option value="$PROJECT_DIR$/app/myDemo/controller/test.js" />
+        <option value="$PROJECT_DIR$/app/myDemo/controller/login.js" />
+        <option value="$PROJECT_DIR$/app/myDemo/static/css/home.css" />
+        <option value="$PROJECT_DIR$/app/myDemo/controller/api.js" />
+        <option value="$PROJECT_DIR$/app/myDemo/static/js/home.js" />
+        <option value="$PROJECT_DIR$/app/myDemo/static/js/packagingAjax.js" />
+        <option value="$PROJECT_DIR$/app/myDemo/views/error.html" />
+        <option value="$PROJECT_DIR$/app/myDemo/controller/demo.js" />
+        <option value="$PROJECT_DIR$/app/myDemo/views/home.html" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/app/myDemo/views/login.html" />
+        <option value="$PROJECT_DIR$/bin/server.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Unit testingJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myKoa-grace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myKoa-grace" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="JavaScriptLanguageLevel" value="ES6" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\machao\WebstormProjects\wsNew\separationFrame\koa-grace\app\myDemo\static\js" />
+      <recent name="C:\Users\machao\WebstormProjects\wsNew\separationFrame\koa-grace\app\myDemo\views" />
+      <recent name="C:\Users\machao\WebstormProjects\wsNew\separationFrame\koa-grace\app\myDemo\controller" />
+      <recent name="C:\Users\machao\WebstormProjects\wsNew\separationFrame\koa-grace\app\myDemo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9400f637-0eda-4fa9-8181-38be480297dd" name="Default" comment="" />
+      <created>1508920084492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508920084492</updated>
+      <workItem from="1508920086121" duration="16836000" />
+      <workItem from="1509325105280" duration="31692000" />
+      <workItem from="1509930069951" duration="17995000" />
+      <workItem from="1510619711679" duration="1551000" />
+      <workItem from="1510729979010" duration="2902000" />
+      <workItem from="1511253685140" duration="5731000" />
+      <workItem from="1511504702207" duration="156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76863000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18124342" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18756586" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/demo/controller/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/router/lib/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4158">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/router/example/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/router/example/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/router/example/controller/path/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/router/example/controller/defaultCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/router/example/controller/error.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/router/example/controller/mult.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/router/example/controller/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/demo/static/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/demo/controller/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/demo/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/static/image/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/static/image/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/body/example/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/body/example/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/co-body/Readme.md" />
+    <entry file="file://$PROJECT_DIR$/middleware/body/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/proxy/example/controller/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/xload/example/data/name.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/xload/example/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-940">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/session/example/controller/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/controller/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/static/js/jquery-3.1.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="185" column="0" lean-forward="false" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/static/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="50" column="8" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/static/js/packagingAjax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/static/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1089">
+          <caret line="33" column="40" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/main.development.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="51" column="43" lean-forward="false" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/views/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/controller/defaultCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/controller/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/controller/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/controller/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/controller/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/controller/message.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/controller/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/static/js/socket.io.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13629">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="35" column="9" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/socket.io-client/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/socket.io/lib/client.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/socket.io/Readme.md" />
+    <entry file="file://$PROJECT_DIR$/bin/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
