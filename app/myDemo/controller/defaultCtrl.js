@@ -1,4 +1,6 @@
 module.exports = async function () {
+	console.log("this is req path");
+	console.log(this.path);
 	console.log('this is a base controller!')
 }
 

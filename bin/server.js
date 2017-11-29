@@ -13,9 +13,10 @@ const utils = require('../src/utils');
 const args = utils.parseArg();
 const config = global.config = require('../src/config')(args);
 
-// require('../src/app').listen(config.site.port);
+require('../src/app').listen(config.site.port);
 
 //socket io  2017.11.21
+/*
 var sio = require('socket.io')
 var app = require('../src/app')
 var server = require('http').createServer(app.callback());
@@ -33,4 +34,4 @@ socket.on('message', function (message) {
 })
 socket.on('disconnect', function () {
     console.log("断开socket链接")
-})
+})*/

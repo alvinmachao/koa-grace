@@ -30,7 +30,7 @@ module.exports = makeConfig({
         api: 'http://10.10.20.40:8888/',
         github_api: 'https://api.github.com/',
         github: 'https://github.com/',
-        local:"http://127.0.0.1:3000/"
+        local: "http://127.0.0.1:3000/"
     },
 
     // mock server配置
@@ -59,12 +59,13 @@ module.exports = makeConfig({
         project: './app/',
         // 当直接访问域名时的默认路由
         default_path: {
-            myDemo: '/home/index',
-            blog: '/home/index'
+            demo: '/home/index',
+            blog: '/home/index',
+            myDemo: '/routers/login'
         },
         // 如果设置jump为false，则当直接访问域名时不重定向到default_path
         default_jump: {
-            myDemo: false,
+            myDemo: true,
             demo: false,
             blog: false
         }

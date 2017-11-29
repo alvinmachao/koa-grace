@@ -25,5 +25,6 @@
     /*$.get('/test/index', function (res) {
         document.write(res)
     });*/
+    document.cookie = "lang=en; path=/;";
 
 })(jQuery)

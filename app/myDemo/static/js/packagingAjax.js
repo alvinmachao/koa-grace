@@ -11,7 +11,7 @@
                 if (data.code == 0) {
                     ajax(obj);
                 } else {
-                    window.location.href = 'http://127.0.0.1:3000/login/index'
+                    window.location.href = 'http://127.0.0.1:3000/routers/login'
                 }
             }
         });
