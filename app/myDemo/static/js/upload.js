@@ -1,7 +1,7 @@
 var uploader = WebUploader.create({
 
     // swf文件路径
-    swf: "/myDemo" + '/js/Uploader.swf',
+    swf: "/myDemo/static" + '/js/Uploader.swf',
 
     // 文件接收服务端。
     server: '/upload/upload',

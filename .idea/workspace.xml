@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9400f637-0eda-4fa9-8181-38be480297dd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/myDemo/controller/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/myDemo/controller/home.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/myDemo/controller/login.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/myDemo/controller/message.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/myDemo/controller/defaultCtrl.js" afterPath="$PROJECT_DIR$/app/myDemo/controller/defaultCtrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/myDemo/controller/test.js" afterPath="$PROJECT_DIR$/app/myDemo/controller/test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/myDemo/static/js/home.js" afterPath="$PROJECT_DIR$/app/myDemo/static/js/home.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/myDemo/static/js/packagingAjax.js" afterPath="$PROJECT_DIR$/app/myDemo/static/js/packagingAjax.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/myDemo/views/home.html" afterPath="$PROJECT_DIR$/app/myDemo/views/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/myDemo/views/login.html" afterPath="$PROJECT_DIR$/app/myDemo/views/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/server.js" afterPath="$PROJECT_DIR$/bin/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/main.development.js" afterPath="$PROJECT_DIR$/config/main.development.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/main.production.js" afterPath="$PROJECT_DIR$/config/main.production.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/message.txt" afterPath="$PROJECT_DIR$/message.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/myDemo/static/js/upload.js" afterPath="$PROJECT_DIR$/app/myDemo/static/js/upload.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,19 +36,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="upload.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="upload.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/myDemo/static/js/upload.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="60" column="27" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="27" />
+            <state relative-caret-position="429">
+              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
               <folding>
-                <marker date="1511934450087" expanded="true" signature="1235:1244" ph="..." />
+                <marker date="1511939132108" expanded="true" signature="1242:1251" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="99">
@@ -194,8 +179,8 @@
         <option value="$PROJECT_DIR$/app/myDemo/static/js/webuploader.js" />
         <option value="$PROJECT_DIR$/app/myDemo/controller/upload.js" />
         <option value="$PROJECT_DIR$/files/name.json" />
-        <option value="$PROJECT_DIR$/app/myDemo/static/js/upload.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/myDemo/static/js/upload.js" />
       </list>
     </option>
   </component>
@@ -305,6 +290,32 @@
               <item name="myKoa-grace" type="b2602c69:ProjectViewProjectNode" />
               <item name="myKoa-grace" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="myKoa-grace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myKoa-grace" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myKoa-grace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myKoa-grace" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="myDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myKoa-grace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myKoa-grace" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="myDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myKoa-grace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myKoa-grace" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="myDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -363,12 +374,12 @@
       <workItem from="1510729979010" duration="2902000" />
       <workItem from="1511253685140" duration="5731000" />
       <workItem from="1511504702207" duration="1098000" />
-      <workItem from="1511833535706" duration="23707000" />
+      <workItem from="1511833535706" duration="24350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101512000" />
+    <option name="totallyTimeSpent" value="102155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -782,21 +793,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/myDemo/static/js/upload.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="60" column="27" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="27" />
-          <folding>
-            <marker date="1511934450087" expanded="true" signature="1235:1244" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myDemo/static/js/upload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <marker date="1511939132108" expanded="true" signature="1242:1251" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
