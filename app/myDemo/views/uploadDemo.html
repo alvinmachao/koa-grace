@@ -3,6 +3,66 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <style>
+        #resultList {
+            display: none;
+            width: 600px;
+            margin-bottom: 20px;
+        }
+
+        #resultList div {
+            width: 100%;
+        }
+
+        #resultList div span {
+            text-align: center;
+            display: inline-block;
+            width: 200px;
+            height: 30px;
+            line-height: 30px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        #resultList div span:nth-child(1) {
+            width: 100px;
+        }
+
+        #resultList div span:nth-child(2) {
+            width: 350px;
+        }
+
+        #resultList div span:nth-child(3) {
+            width: 150px;
+        }
+
+        .del {
+            width: 80px;
+            height: 30px;
+            text-align: center;
+            line-height: 30px;
+            color: red;
+            border: 1px solid #ddd;
+            margin-bottom: 20px;
+            cursor: pointer;
+        }
+
+        .progress {
+            border: 1px solid #ddd;
+            width: 600px;
+            height: 4px;
+            margin-bottom: 20px;
+
+        }
+
+        .progress-bar {
+            background: #00a2d4;
+            height: 4px;
+        }
+
+
+    </style>
     <link rel="stylesheet" type="text/css" href="/myDemo/static/css/webuploader.css"/>
     <script type="text/javascript" src="/myDemo/static/js/jquery-3.1.0.min.js"></script>
     <script type="text/javascript" src="/myDemo/static/js/webuploader.js"></script>
@@ -11,6 +71,9 @@
 <div id="uploader" class="wu-example">
     <!--用来存放文件信息-->
     <div id="thelist" class="uploader-list"></div>
+    <div id="resultList">
+        <div><span>序号</span><span>名字</span><span>状态</span></div>
+    </div>
     <div class="btns">
         <div id="picker">选择文件</div>
         <button id="ctlBtn" class="btn btn-default">开始上传</button>
